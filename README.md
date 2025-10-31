@@ -6,7 +6,7 @@ A modern, fullstack web application for booking travel experiences like paraglid
 
 ** Project URL**: 
 
-[Deploy your application](#deployment) to get a live URL.
+**highway-delite-bookings-bqoqn3own-eekshahollars-projects.vercel.app** to get a live URL.
 
 ## 📋 Table of Contents
 
@@ -54,7 +54,7 @@ A modern, fullstack web application for booking travel experiences like paraglid
 - **Shadcn/ui**: High-quality component library
 
 ### Backend
-- **Cloud**: Integrated backend platform (no external accounts needed)
+- **Cloud**: Integrated backend platform Vercel (no external accounts needed)
 - **PostgreSQL**: Relational database with Row Level Security
 - **Supabase Edge Functions**: Serverless API endpoints (Deno runtime)
 - **Supabase Client**: Type-safe database queries
@@ -474,7 +474,7 @@ This project is built for educational purposes as part of a fullstack intern ass
 
 ---
 
-**Built with ❤️ using React, TypeScript, TailwindCSS, **
+**Built using React, TypeScript, TailwindCSS**
 
 *This project demonstrates a complete fullstack booking system with:*
 - ✅ Modern React frontend with TypeScript
