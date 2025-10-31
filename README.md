@@ -4,9 +4,8 @@ A modern, fullstack web application for booking travel experiences like paraglid
 
 ## 🚀 Live Demo
 
-** Project URL**: 
-
-<a href="highway-delite-bookings-bqoqn3own-eekshahollars-projects.vercel.app<">highway-delite-bookings-bqoqn3own-eekshahollars-projects.vercel.app</a> to get a live URL.
+**Project URL**:  
+[https://highway-delite-bookings-bqoqn3own-eekshahollars-projects.vercel.app](https://highway-delite-bookings-bqoqn3own-eekshahollars-projects.vercel.app)
 
 ## 📋 Table of Contents
 
